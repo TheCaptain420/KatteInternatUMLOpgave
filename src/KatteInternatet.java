@@ -25,8 +25,8 @@ public class KatteInternatet {
         kat3 = null;
 
         // En lækker anvendelse af Dato klassen
-        Date dato = new Date();
-        System.out.println(dato.toString());
+        //Date dato = new Date();
+        //System.out.println(dato.toString());
         // Her kan du se, hvorn kan man gøre datoen til dansk
         // http://www.linuxbog.dk/java/bog/java-i18n-formatering-dato.html
 
